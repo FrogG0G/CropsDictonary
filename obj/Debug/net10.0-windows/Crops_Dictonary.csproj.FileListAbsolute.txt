@@ -1,0 +1,17 @@
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\bin\Debug\net10.0-windows\Crops_Dictonary.exe
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\bin\Debug\net10.0-windows\Crops_Dictonary.deps.json
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\bin\Debug\net10.0-windows\Crops_Dictonary.runtimeconfig.json
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\bin\Debug\net10.0-windows\Crops_Dictonary.dll
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\bin\Debug\net10.0-windows\Crops_Dictonary.pdb
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\obj\Debug\net10.0-windows\Crops_Dictonary.Form1.resources
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\obj\Debug\net10.0-windows\Crops_Dictonary.csproj.GenerateResource.cache
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\obj\Debug\net10.0-windows\Crops_Dictonary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\obj\Debug\net10.0-windows\Crops_Dictonary.AssemblyInfoInputs.cache
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\obj\Debug\net10.0-windows\Crops_Dictonary.AssemblyInfo.cs
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\obj\Debug\net10.0-windows\Crops_Dictonary.csproj.CoreCompileInputs.cache
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\obj\Debug\net10.0-windows\Crops_Dictonary.sourcelink.json
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\obj\Debug\net10.0-windows\Crops_Dictonary.dll
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\obj\Debug\net10.0-windows\refint\Crops_Dictonary.dll
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\obj\Debug\net10.0-windows\Crops_Dictonary.pdb
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\obj\Debug\net10.0-windows\Crops_Dictonary.genruntimeconfig.cache
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictonary\obj\Debug\net10.0-windows\ref\Crops_Dictonary.dll

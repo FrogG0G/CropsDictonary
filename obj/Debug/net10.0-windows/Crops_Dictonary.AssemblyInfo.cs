@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Crops_Dictonary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d78d1afcb654f84c98e5ae14dcd17463559d543")]
 [assembly: System.Reflection.AssemblyProductAttribute("Crops_Dictonary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Crops_Dictonary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

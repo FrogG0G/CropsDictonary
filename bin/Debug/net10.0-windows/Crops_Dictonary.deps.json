@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Crops_Dictonary/1.0.0": {
+        "runtime": {
+          "Crops_Dictonary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Crops_Dictonary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artem.kopchenov\\Desktop\\CropsDictonary\\Crops_Dictonary\\Crops_Dictonary.csproj": {}
+    "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Crops_Dictonary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artem.kopchenov\\Desktop\\CropsDictonary\\Crops_Dictonary\\Crops_Dictonary.csproj": {
+    "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Crops_Dictonary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artem.kopchenov\\Desktop\\CropsDictonary\\Crops_Dictonary\\Crops_Dictonary.csproj",
+        "projectUniqueName": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Crops_Dictonary.csproj",
         "projectName": "Crops_Dictonary",
-        "projectPath": "C:\\Users\\artem.kopchenov\\Desktop\\CropsDictonary\\Crops_Dictonary\\Crops_Dictonary.csproj",
-        "packagesPath": "C:\\Users\\artem.kopchenov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artem.kopchenov\\Desktop\\CropsDictonary\\Crops_Dictonary\\obj\\",
+        "projectPath": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Crops_Dictonary.csproj",
+        "packagesPath": "C:\\Users\\brotn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\artem.kopchenov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brotn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
