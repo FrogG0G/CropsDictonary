@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{180C78FC-C4E3-417C-A32D-61621D330326}|..\\CropsDictonary.Core.Tests\\CropsDictonary.Core.Tests.csproj|c:\\users\\brotn\\desktop\\cropsdictonary\\cropsdictonary.core.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45874B7-FB24-A969-B6C3-D90B3C592395}|Crops_Dictonary.csproj|c:\\users\\brotn\\desktop\\cropsdictonary\\cropsdictonary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45874B7-FB24-A969-B6C3-D90B3C592395}|Crops_Dictonary.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C9699A-6AAC-4F88-821D-F2CA9278F860}|..\\CropsDictionary.Core\\CropsDictonary.Core.csproj|c:\\users\\brotn\\desktop\\cropsdictonary\\cropsdictionary.core\\cropservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45874B7-FB24-A969-B6C3-D90B3C592395}|Crops_Dictonary.csproj|c:\\users\\brotn\\desktop\\cropsdictonary\\cropsdictonary\\crops_dictonary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F45874B7-FB24-A969-B6C3-D90B3C592395}|Crops_Dictonary.csproj|solutionrelative:crops_dictonary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C9699A-6AAC-4F88-821D-F2CA9278F860}|..\\CropsDictionary.Core\\CropsDictionary.Core.csproj|c:\\users\\brotn\\desktop\\cropsdictonary\\cropsdictionary.core\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C9699A-6AAC-4F88-821D-F2CA9278F860}|..\\CropsDictionary.Core\\CropsDictionary.Core.csproj|c:\\users\\brotn\\desktop\\cropsdictonary\\cropsdictionary.core\\crop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45874B7-FB24-A969-B6C3-D90B3C592395}|Crops_Dictonary.csproj|c:\\users\\brotn\\desktop\\cropsdictonary\\cropsdictonary\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45874B7-FB24-A969-B6C3-D90B3C592395}|Crops_Dictonary.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45874B7-FB24-A969-B6C3-D90B3C592395}|Crops_Dictonary.csproj|c:\\users\\brotn\\desktop\\cropsdictonary\\cropsdictonary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F45874B7-FB24-A969-B6C3-D90B3C592395}|Crops_Dictonary.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45874B7-FB24-A969-B6C3-D90B3C592395}|Crops_Dictonary.csproj|c:\\users\\brotn\\desktop\\cropsdictonary\\cropsdictonary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45874B7-FB24-A969-B6C3-D90B3C592395}|Crops_Dictonary.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary.Core.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\CropsDictonary.Core.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary.Core.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\CropsDictonary.Core.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:50:18.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Crops_Dictonary",
+              "DocumentMoniker": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Crops_Dictonary.csproj",
+              "RelativeDocumentMoniker": "Crops_Dictonary.csproj",
+              "ToolTip": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Crops_Dictonary.csproj",
+              "RelativeToolTip": "Crops_Dictonary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T15:57:01.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CropService.cs",
+              "DocumentMoniker": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictionary.Core\\CropService.cs",
+              "RelativeDocumentMoniker": "..\\CropsDictionary.Core\\CropService.cs",
+              "ToolTip": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictionary.Core\\CropService.cs",
+              "RelativeToolTip": "..\\CropsDictionary.Core\\CropService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:03:04.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictionary.Core\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "..\\CropsDictionary.Core\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictionary.Core\\ApplicationContext.cs",
+              "RelativeToolTip": "..\\CropsDictionary.Core\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:55:05.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Crop.cs",
+              "DocumentMoniker": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictionary.Core\\Crop.cs",
+              "RelativeDocumentMoniker": "..\\CropsDictionary.Core\\Crop.cs",
+              "ToolTip": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictionary.Core\\Crop.cs",
+              "RelativeToolTip": "..\\CropsDictionary.Core\\Crop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:53:32.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:32:41.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:58:12.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T13:01:21.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:10:18.956Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

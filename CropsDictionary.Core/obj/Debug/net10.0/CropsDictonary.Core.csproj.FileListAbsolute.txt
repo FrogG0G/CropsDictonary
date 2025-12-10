@@ -1,0 +1,12 @@
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\bin\Debug\net10.0\CropsDictonary.Core.deps.json
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\bin\Debug\net10.0\CropsDictonary.Core.dll
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\bin\Debug\net10.0\CropsDictonary.Core.pdb
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\obj\Debug\net10.0\CropsDictonary.Core.csproj.AssemblyReference.cache
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\obj\Debug\net10.0\CropsDictonary.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\obj\Debug\net10.0\CropsDictonary.Core.AssemblyInfoInputs.cache
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\obj\Debug\net10.0\CropsDictonary.Core.AssemblyInfo.cs
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\obj\Debug\net10.0\CropsDictonary.Core.csproj.CoreCompileInputs.cache
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\obj\Debug\net10.0\CropsDictonary.Core.dll
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\obj\Debug\net10.0\refint\CropsDictonary.Core.dll
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\obj\Debug\net10.0\CropsDictonary.Core.pdb
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\obj\Debug\net10.0\ref\CropsDictonary.Core.dll
