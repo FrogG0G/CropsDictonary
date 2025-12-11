@@ -10,3 +10,4 @@ C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\obj\Debug\net10.0\Cro
 C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\obj\Debug\net10.0\refint\CropsDictonary.Core.dll
 C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\obj\Debug\net10.0\CropsDictonary.Core.pdb
 C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\obj\Debug\net10.0\ref\CropsDictonary.Core.dll
+C:\Users\brotn\Desktop\CropsDictonary\CropsDictionary.Core\obj\Debug\net10.0\CropsDictonary.Core.sourcelink.json

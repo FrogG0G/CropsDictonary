@@ -9,13 +9,13 @@ namespace Crops_Dictonary
 {
     public partial class Form1 : Form
     {
-        private CropService service;
+        private readonly ICropService service;
         private BindingSource bindingSource = new BindingSource();
 
-        public Form1()
+        public Form1(ICropService service)
         {
             InitializeComponent();
-            service = new CropService();
+            this.service = service;
             bindingSource.DataSource = service.GetBindingList();
             dataGridView1.DataSource = bindingSource;
             dataGridView1.AllowUserToAddRows = false;
@@ -61,10 +61,8 @@ namespace Crops_Dictonary
 
             if (f.ShowDialog() == DialogResult.OK)
             {
-                decimal price = 0;
-                decimal.TryParse(t2.Text, out price);
-                decimal quantity = 0;
-                decimal.TryParse((string)t3.Text, out quantity);
+                decimal.TryParse(t2.Text, out decimal price);
+                decimal.TryParse((string)t3.Text, out decimal quantity);
 
                 service.Add(t1.Text, price, quantity); 
             }
@@ -106,10 +104,8 @@ namespace Crops_Dictonary
 
             if (f.ShowDialog() == DialogResult.OK)
             {
-                decimal price = 0;
-                decimal.TryParse(t2.Text, out price);
-                decimal quantity = 0;
-                decimal.TryParse((string)t3.Text, out quantity);
+                decimal.TryParse(t2.Text, out decimal price);
+                decimal.TryParse((string)t3.Text, out decimal quantity);
 
                 crop.Name = t1.Text;
                 crop.Price = price;
@@ -140,10 +136,5 @@ namespace Crops_Dictonary
 
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e) { }
-        protected override void OnFormClosing(FormClosingEventArgs e)
-        {
-            service?.Dispose();
-            base.OnFormClosing(e);
-        }
     }
 }

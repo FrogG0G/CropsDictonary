@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CropsDictonary.Core
 {
-    public class CropService : IDisposable
+    public class CropService : ICropService
     {
         private readonly ApplicationContext db;
 
@@ -46,6 +46,9 @@ namespace CropsDictonary.Core
             db.SaveChanges();
         }
 
-        public void Dispose() { db.Dispose(); }
+        public void Dispose() 
+        { 
+            db.Dispose(); 
+        }
     }
 }

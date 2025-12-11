@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zFp7ZIUCGwY=",
+  "dgSpecHash": "Dxb7TfU8kpA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Crops_Dictonary.csproj",
+  "projectFilePath": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\Crops_Dictonary\\Crops_Dictonary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brotn\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.0\\microsoft.data.sqlite.core.10.0.0.nupkg.sha512",
     "C:\\Users\\brotn\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.0\\microsoft.entityframeworkcore.10.0.0.nupkg.sha512",

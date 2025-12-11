@@ -1034,11 +1034,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Crops_Dictonary.csproj",
+      "projectUniqueName": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\Crops_Dictonary\\Crops_Dictonary.csproj",
       "projectName": "Crops_Dictonary",
-      "projectPath": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\Crops_Dictonary.csproj",
+      "projectPath": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\Crops_Dictonary\\Crops_Dictonary.csproj",
       "packagesPath": "C:\\Users\\brotn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\CropsDictonary\\obj\\",
+      "outputPath": "C:\\Users\\brotn\\Desktop\\CropsDictonary\\Crops_Dictonary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1106,7 +1106,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
