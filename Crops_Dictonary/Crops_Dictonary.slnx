@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="../CropsDictionary.Core/CropsDictonary.Core.csproj" Id="a0c9699a-6aac-4f88-821d-f2ca9278f860" />
+  <Project Path="../CropsDictonary.Api/CropsDictonary.Api.csproj" Id="76c098f1-5d52-4520-8ca3-d3f0e1634127" />
   <Project Path="../CropsDictonary.Core.Tests/CropsDictonary.Core.Tests.csproj" Id="180c78fc-c4e3-417c-a32d-61621d330326" />
   <Project Path="Crops_Dictonary.csproj" />
 </Solution>
