@@ -7,10 +7,18 @@ namespace CropsDictonary.Core
 {
     public class ApplicationContext : DbContext
     {
-        public DbSet<Crop> Crops { get; set; } 
+        public DbSet<Crop> Crops { get; set; }
+
+        public ApplicationContext(DbContextOptions<ApplicationContext> options) : base(options) { }
+
+        public ApplicationContext() { }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Source=crops.db");
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlite("Data Source=crops.db");
+            }
         }
     }
 }

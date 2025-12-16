@@ -10,9 +10,9 @@ namespace CropsDictonary.Core
     {
         private readonly ApplicationContext db;
 
-        public CropService()
+        public CropService(ApplicationContext context)
         {
-            db = new ApplicationContext(); 
+            db = context; 
             db.Database.EnsureCreated();
             db.Crops.Load();
         }
